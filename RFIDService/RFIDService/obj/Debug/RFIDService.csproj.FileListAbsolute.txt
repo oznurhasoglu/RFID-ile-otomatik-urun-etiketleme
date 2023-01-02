@@ -1,0 +1,12 @@
+C:\Users\oznur.hasoglu\Desktop\rfid\RFIDService\RFIDService\bin\Debug\RFIDService.exe.config
+C:\Users\oznur.hasoglu\Desktop\rfid\RFIDService\RFIDService\bin\Debug\RFIDService.exe
+C:\Users\oznur.hasoglu\Desktop\rfid\RFIDService\RFIDService\bin\Debug\RFIDService.pdb
+C:\Users\oznur.hasoglu\Desktop\rfid\RFIDService\RFIDService\bin\Debug\Symbol.RFID3.Host.dll
+C:\Users\oznur.hasoglu\Desktop\rfid\RFIDService\RFIDService\obj\Debug\RFIDService.csproj.AssemblyReference.cache
+C:\Users\oznur.hasoglu\Desktop\rfid\RFIDService\RFIDService\obj\Debug\RFIDService.csproj.SuggestedBindingRedirects.cache
+C:\Users\oznur.hasoglu\Desktop\rfid\RFIDService\RFIDService\obj\Debug\RFIDService.ProjectInstaller.resources
+C:\Users\oznur.hasoglu\Desktop\rfid\RFIDService\RFIDService\obj\Debug\RFIDService.csproj.GenerateResource.cache
+C:\Users\oznur.hasoglu\Desktop\rfid\RFIDService\RFIDService\obj\Debug\RFIDService.csproj.CoreCompileInputs.cache
+C:\Users\oznur.hasoglu\Desktop\rfid\RFIDService\RFIDService\obj\Debug\RFIDService.csproj.CopyComplete
+C:\Users\oznur.hasoglu\Desktop\rfid\RFIDService\RFIDService\obj\Debug\RFIDService.exe
+C:\Users\oznur.hasoglu\Desktop\rfid\RFIDService\RFIDService\obj\Debug\RFIDService.pdb
